@@ -81,20 +81,18 @@ Tenho experiência com HTML, CSS, JavaScript, Python, SQL e Git. Estou sempre em
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=RenanSantos12&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=RenanSantos12&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=false&locale=pt-br" 
+    alt="Estatísticas do GitHub de Renan Santos"
   />
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanSantos12&layout=compact&langs_count=9&theme=tokyonight&custom_title=Tecnologias&hide_border=false" 
+    alt="Linguagens mais usadas"
+  />
+</p>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanSantos12&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
 </p>
