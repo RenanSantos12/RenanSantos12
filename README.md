@@ -11,6 +11,44 @@ Tenho experiência com HTML, CSS, JavaScript, Python, SQL e Git. Estou sempre em
 
 
 ### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="python"
+    title="python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=FxkIezJo1I3F&format=png&color=000000" 
+/>
+
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/java@0.0.0/java_256x256.png" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+
+<img 
+    align="left" 
+    alt="SQL"
+    title="SQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=UFF3hmipmJ2V&format=png&color=000000" 
+/>
+
 <img 
     align="left" 
     alt="HTML"
@@ -35,23 +73,6 @@ Tenho experiência com HTML, CSS, JavaScript, Python, SQL e Git. Estou sempre em
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="python"
-    title="python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=100&id=FxkIezJo1I3F&format=png&color=000000" 
-/>
-
-<img 
-    align="left" 
-    alt="SQL"
-    title="SQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=100&id=UFF3hmipmJ2V&format=png&color=000000" 
-/>
 
 
 <img 
@@ -61,27 +82,6 @@ Tenho experiência com HTML, CSS, JavaScript, Python, SQL e Git. Estou sempre em
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/java@0.0.0/java_256x256.png" 
-/>
-
-
-
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
 
