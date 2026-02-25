@@ -63,6 +63,15 @@ Tenho experiência com HTML, CSS, JavaScript, Python, SQL e Git. Estou sempre em
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://icons8.com.br/icons/set/java" 
+/>
+
 
 
 
