@@ -69,7 +69,7 @@ Tenho experiência com HTML, CSS, JavaScript, Python, SQL e Git. Estou sempre em
     title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://icons8.com.br/icons/set/java" 
+    src="https://www.google.com/imgres?q=icone%20do%20java&imgurl=https%3A%2F%2Fe7.pngegg.com%2Fpngimages%2F123%2F816%2Fpng-clipart-computer-icons-java-%25E5%2592%2596%25E5%2595%25A1%25E6%25B5%25B7%25E6%258A%25A5%25E5%259B%25BE%25E7%2589%2587%25E7%25B4%25A0%25E6%259D%2590-miscellaneous-text.png&imgrefurl=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-esevj&docid=TamGQN5womC2-M&tbnid=UDvaAw_aVi3SzM&vet=12ahUKEwiGkKyN1vSSAxUrr5UCHVygAnEQnPAOegQILRAB..i&w=900&h=900&hcb=2&ved=2ahUKEwiGkKyN1vSSAxUrr5UCHVygAnEQnPAOegQILRAB" 
 />
 
 
